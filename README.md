@@ -1,4 +1,4 @@
-# 🧪 PySphere Assignment 1 – Ohm's Law (Git & Python Practice)
+# 🧪 PySphere Assignment 1 – Ohm's Law
 
 ## 📌 Objective
 This project is part of PySphere Assignment 1.  
@@ -22,7 +22,9 @@ Where:
 ## 🖥 Example Program Output
 
 Enter the current (in A): 3
+
 Enter the resistance (in ohms): 10
+
 The voltage is: 30.0 volts
 
 
@@ -44,14 +46,16 @@ The voltage is: 30.0 volts
 1. Install Python (if not installed) → [Download Python](https://www.python.org/downloads/)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/pysphere-assignment-1.git
+   git clone https://github.com/Anasco-001/pysphere-assignment-1.git
 
-cd pysphere-assignment-1
+   cd pysphere-assignment-1
 
-python ohms_law.py
+   python ohms_law.py
 
 ✍ Author
+
 Name: Anas Salisu
+
 GitHub: Anasco-001
 
 
