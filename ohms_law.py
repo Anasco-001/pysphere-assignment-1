@@ -10,3 +10,5 @@ voltage = current * resistance
 
 # Display result
 print(f"The voltage is: {voltage} volts")
+
+# By Anas Salisu
